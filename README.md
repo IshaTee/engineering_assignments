@@ -1,4 +1,4 @@
-##Assignment for Frontend Developer.##
+#Assignment for Frontend Developer.#
 
 Soko is an omnichannel commerce platform that enables a business to quickly set up and run an online retail store.
 
