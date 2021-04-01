@@ -11,7 +11,7 @@ A typical seller installs the Soko Merchant app (https://play.google.com/store/a
 **The assignment**
 Your assignment is to redesign our merchant storefront using the Marvel Mockups here (you can use either adpative or responsive approach): https://marvelapp.com/prototype/81d69id/screen/77231405
 
-Zeplin: https://app.zeplin.io/project/5faeb2383868586462fe7f79/dashboard?sid=60582743cfc7470abf465960
+Zeplin: https://scene.zeplin.io/project/5faeb2383868586462fe7f79
 
 Please email the link to your completed project (both code and demo web link) to: withsoko[@]gmail.com
 
