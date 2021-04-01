@@ -1,5 +1,6 @@
-Assignment for frontend developer.
-Dukaan is a tech platform that enables a business to quickly set up and run an online retail store.
+##Assignment for Frontend Developer.##
+
+Soko is an omnichannel commerce platform that enables a business to quickly set up and run an online retail store.
 
 A typical seller installs the Dukaan app, Signs up using his mobile number and creates his store. He can then start uploading inventory (as products) to his store. Once the store is created, he can share the store link with his/her customers on social media and starts accepting online orders.
 
