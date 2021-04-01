@@ -9,7 +9,7 @@ A typical seller installs the Soko Merchant app (https://play.google.com/store/a
 **Storefront stack**: CSS3/HTML5/React
 
 **The assignment**
-Your assignment is to redesign our merchant storefront following the Marvel Mockups here: https://marvelapp.com/prototype/81d69id/screen/77231405
+Your assignment is to redesign our merchant storefront using the Marvel Mockups here (you can use either adpative or responsive approach): https://marvelapp.com/prototype/81d69id/screen/77231405
 
 Please email the link to your completed project (both code and demo web link) to: withsoko[@]gmail.com
 
